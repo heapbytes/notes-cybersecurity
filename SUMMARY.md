@@ -11,7 +11,6 @@
 
 * [HackTheBox](rooms/hackthebox/README.md)
   * [Easy](rooms/hackthebox/easy/README.md)
-    * [Page 2](rooms/hackthebox/easy/page-2.md)
     * [Horizontall](rooms/hackthebox/easy/horizontall.md)
     * [Backdoor](rooms/hackthebox/easy/backdoor.md)
     * [Soccer](rooms/hackthebox/easy/soccer.md)
