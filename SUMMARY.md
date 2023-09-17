@@ -18,3 +18,4 @@
     * [Shibboleth](rooms/hackthebox/medium/shibboleth.md)
 * [Tryhackme](rooms/tryhackme/README.md)
   * [Athena](rooms/tryhackme/athena.md)
+  * [Archangel](rooms/tryhackme/archangel.md)
