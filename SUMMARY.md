@@ -19,3 +19,8 @@
 * [Tryhackme](rooms/tryhackme/README.md)
   * [Athena](rooms/tryhackme/athena.md)
   * [Archangel](rooms/tryhackme/archangel.md)
+
+## Certifications
+
+* [EJPT v2](certifications/ejpt-v2/README.md)
+  * [Passive info gathering](certifications/ejpt-v2/passive-info-gathering.md)
