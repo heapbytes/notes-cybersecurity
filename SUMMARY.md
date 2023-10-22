@@ -16,6 +16,7 @@
     * [Soccer](rooms/hackthebox/easy/soccer.md)
   * [Medium](rooms/hackthebox/medium/README.md)
     * [Shibboleth](rooms/hackthebox/medium/shibboleth.md)
+    * [Format](rooms/hackthebox/medium/format.md)
 * [Tryhackme](rooms/tryhackme/README.md)
   * [Athena](rooms/tryhackme/athena.md)
   * [Archangel](rooms/tryhackme/archangel.md)
