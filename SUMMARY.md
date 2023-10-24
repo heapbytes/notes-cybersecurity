@@ -4,8 +4,12 @@
 
 ## 🚩 CTF writeups
 
-* [HTB Santa CTF 2022](ctf-writeups/htb-santa-ctf-2022.md)
-* [Technovanza 2022](ctf-writeups/technovanza-2022.md)
+* [2022 CTFs](ctf-writeups/2022-ctfs/README.md)
+  * [HTB Santa CTF 2022](ctf-writeups/2022-ctfs/htb-santa-ctf-2022.md)
+  * [Technovanza 2022](ctf-writeups/2022-ctfs/technovanza-2022.md)
+* [2023](ctf-writeups/2023/README.md)
+  * [Blackhat MEA CTF](ctf-writeups/2023/blackhat-mea-ctf/README.md)
+    * [Web - Authy](ctf-writeups/2023/blackhat-mea-ctf/web-authy.md)
 
 ## 📦 Rooms
 
