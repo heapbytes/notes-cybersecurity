@@ -1,11 +1,9 @@
 # Passive info gathering
 
-* check Foollowing pages :&#x20;
-  * robots.txt
-  * sitemap\_index.xml
+*   check Foollowing pages :&#x20;
 
-
-
+    * robots.txt
+    * sitemap\_index.xml
 
 
 *   Tools to use
@@ -21,5 +19,4 @@
   * `site:`website.com : it will show results only related to website.com
     * `site:*.website.com shows subdomains.`
   * `inurl:`title to search within the domain (can use with site)
-  *
 
