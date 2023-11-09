@@ -30,3 +30,4 @@
 
 * [EJPT v2](certifications/ejpt-v2/README.md)
   * [Passive info gathering](certifications/ejpt-v2/passive-info-gathering.md)
+  * [Enumeration techniques](certifications/ejpt-v2/enumeration-techniques.md)
