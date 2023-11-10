@@ -15,10 +15,11 @@
 
 * [HackTheBox](rooms/hackthebox/README.md)
   * [Easy](rooms/hackthebox/easy/README.md)
+    * [Broker](rooms/hackthebox/easy/broker.md)
+    * [Topology](rooms/hackthebox/easy/topology.md)
     * [Horizontall](rooms/hackthebox/easy/horizontall.md)
     * [Backdoor](rooms/hackthebox/easy/backdoor.md)
     * [Soccer](rooms/hackthebox/easy/soccer.md)
-    * [Topology](rooms/hackthebox/easy/topology.md)
   * [Medium](rooms/hackthebox/medium/README.md)
     * [Shibboleth](rooms/hackthebox/medium/shibboleth.md)
     * [Format - incomplete](rooms/hackthebox/medium/format-incomplete.md)

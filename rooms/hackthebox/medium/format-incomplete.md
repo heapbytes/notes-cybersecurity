@@ -2,9 +2,9 @@
 description: Level - Medium
 ---
 
-# Format
+# Format - incomplete
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (1).png>)
 
 
 
@@ -41,7 +41,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>It redirects us to the git url (port 3000) of this app</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>It redirects us to the git url (port 3000) of this app</p></figcaption></figure>
 
 
 
