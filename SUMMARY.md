@@ -26,6 +26,7 @@
 * [Tryhackme](rooms/tryhackme/README.md)
   * [Athena](rooms/tryhackme/athena.md)
   * [Archangel](rooms/tryhackme/archangel.md)
+  * [Hacker Vs Hacker](rooms/tryhackme/hacker-vs-hacker.md)
 
 ## Certifications
 
