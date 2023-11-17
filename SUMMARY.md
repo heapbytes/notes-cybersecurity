@@ -24,6 +24,7 @@
     * [Shibboleth](rooms/hackthebox/medium/shibboleth.md)
     * [Format - incomplete](rooms/hackthebox/medium/format-incomplete.md)
 * [Tryhackme](rooms/tryhackme/README.md)
+  * [Overpass](rooms/tryhackme/overpass.md)
   * [Athena](rooms/tryhackme/athena.md)
   * [Archangel](rooms/tryhackme/archangel.md)
   * [Hacker Vs Hacker](rooms/tryhackme/hacker-vs-hacker.md)
