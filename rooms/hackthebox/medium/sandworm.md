@@ -1,6 +1,8 @@
-# Sandworm
+---
+description: https://app.hackthebox.com/machines/Sandworm
+---
 
-## Sandworm
+# Sandworm
 
 > from hackthebox
 
