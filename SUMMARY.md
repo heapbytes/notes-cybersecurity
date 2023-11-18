@@ -22,6 +22,7 @@
     * [Soccer](rooms/hackthebox/easy/soccer.md)
     * [Secret](rooms/hackthebox/easy/secret.md)
   * [Medium](rooms/hackthebox/medium/README.md)
+    * [Sandworm](rooms/hackthebox/medium/sandworm.md)
     * [Shibboleth](rooms/hackthebox/medium/shibboleth.md)
     * [Format - incomplete](rooms/hackthebox/medium/format-incomplete.md)
 * [Tryhackme](rooms/tryhackme/README.md)
