@@ -33,8 +33,9 @@
   * [Archangel](rooms/tryhackme/archangel.md)
   * [Hacker Vs Hacker](rooms/tryhackme/hacker-vs-hacker.md)
 
-## Certifications
+## 🏆 Certifications
 
 * [EJPT v2](certifications/ejpt-v2/README.md)
   * [Passive info gathering](certifications/ejpt-v2/passive-info-gathering.md)
-  * [Enumeration techniques](certifications/ejpt-v2/enumeration-techniques.md)
+  * [Enumeration techniques](certifications/ejpt-v2/enumeration-techniques/README.md)
+    * [Samba (SMB)](certifications/ejpt-v2/enumeration-techniques/samba-smb.md)

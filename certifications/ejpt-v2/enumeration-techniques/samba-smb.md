@@ -1,6 +1,4 @@
-# Enumeration techniques
-
-## SMB (samba)
+# Samba (SMB)
 
 * smb -> server message block
 * net use \* /delete -> deletes all the folders and files in SMB
@@ -12,54 +10,54 @@
 
 ```bash
 nmap $IP -p445 --script smb-enum-sessions \
---script-args smbusername=$username smbpassword=$password
+--script-args smbusername=$username,smbpassword=$password
 ```
 
 * share enumerations
 
 ```bash
 nmap $IP -p445 --script smb-enum-shares \
---script-args smbusername=$username smbpassword=$password
+--script-args smbusername=$username,smbpassword=$password
 ```
 
 * enumerate users -> to find how many users exists
 
 ```bash
 nmap $IP -p445 --script smb-enum-users \
---script-args smbusername=$username smbpassword=$password
+--script-args smbusername=$username,smbpassword=$password
 ```
 
 * enumerate server staticstics -> prints out how many logged in, failed attempt count, etc.
 
 ```bash
 nmap $IP -p445 --script smb-enum-stats \
---script-args smbusername=$username smbpassword=$password
+--script-args smbusername=$username,smbpassword=$password
 ```
 
 * enumerate domain (scan) -> find out how many domains are there
 
 ```bash
 nmap $IP -p445 --script smb-enum-domains \
---script-args smbusername=$username smbpassword=$password
+--script-args smbusername=$username,smbpassword=$password
 ```
 
 * enumerate groups -> shows all users belongs to what groups
 
 ```bash
 nmap $IP -p445 --script smb-enum-groups \
---script-args smbusername=$username smbpassword=$password
+--script-args smbusername=$username,smbpassword=$password
 ```
 
 * enumerate services -> to see what services are running
 
 ```bash
 nmap $IP -p445 --script smb-enum-services \
---script-args smbusername=$username smbpassword=$password
+--script-args smbusername=$username,smbpassword=$password
 ```
 
 ```bash
 nmap $IP -p445 --script smb-enum-services,smb-ls \
---script-args smbusername=$username smbpassword=$password
+--script-args smbusername=$username,smbpassword=$password
 
 # above command just with `smb-ls` which will list all the files
 # smb-ls -> linux machine
@@ -92,7 +90,7 @@ smbmap -u guest -p "" -d . -H $IP
 smbmap -u $username -p $password -d . -H $IP
 ```
 
-* To run commands&#x20;
+* To run commands on the target machine (-x flag)
 
 ```bash
 smbmap -u $username -p $password -H $IP -x $command
@@ -124,6 +122,19 @@ smbpmap -u $username -p $password --download '$C\path\file'
 ```
 
 
+
+### linux enum
+
+* msfconsole module to scan samba version
+
+```bash
+msfconsole
+use auxillary/scanner/smb/smb_version 
+
+#run : 'show options' & fill up needed fields.
+```
+
+### nmblookup
 
 
 
