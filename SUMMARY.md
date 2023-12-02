@@ -36,7 +36,9 @@
 ## 🏆 Certifications
 
 * [EJPT v2](certifications/ejpt-v2/README.md)
-  * [Passive info gathering](certifications/ejpt-v2/passive-info-gathering.md)
-  * [Enumeration techniques](certifications/ejpt-v2/enumeration-techniques/README.md)
-    * [Samba (SMB)](certifications/ejpt-v2/enumeration-techniques/samba-smb.md)
-    * [FTP](certifications/ejpt-v2/enumeration-techniques/ftp.md)
+  * [Assesment Methodology](certifications/ejpt-v2/assesment-methodology/README.md)
+    * [Passive info gathering](certifications/ejpt-v2/assesment-methodology/passive-info-gathering.md)
+    * [Enumeration techniques](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/README.md)
+      * [Samba (SMB)](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/samba-smb.md)
+      * [FTP](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/ftp.md)
+      * [SSH](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/ssh.md)
