@@ -7,9 +7,9 @@
 * [2022 CTFs](ctf-writeups/2022-ctfs/README.md)
   * [HTB Santa CTF 2022](ctf-writeups/2022-ctfs/htb-santa-ctf-2022.md)
   * [Technovanza 2022](ctf-writeups/2022-ctfs/technovanza-2022.md)
-* [2023](ctf-writeups/2023/README.md)
-  * [Blackhat MEA CTF](ctf-writeups/2023/blackhat-mea-ctf/README.md)
-    * [Web - Authy](ctf-writeups/2023/blackhat-mea-ctf/web-authy.md)
+* [2023 CTFs](ctf-writeups/2023-ctfs/README.md)
+  * [Blackhat MEA CTF](ctf-writeups/2023-ctfs/blackhat-mea-ctf/README.md)
+    * [Web - Authy](ctf-writeups/2023-ctfs/blackhat-mea-ctf/web-authy.md)
 
 ## 📦 Rooms
 
@@ -39,3 +39,4 @@
   * [Passive info gathering](certifications/ejpt-v2/passive-info-gathering.md)
   * [Enumeration techniques](certifications/ejpt-v2/enumeration-techniques/README.md)
     * [Samba (SMB)](certifications/ejpt-v2/enumeration-techniques/samba-smb.md)
+    * [FTP](certifications/ejpt-v2/enumeration-techniques/ftp.md)
