@@ -42,3 +42,4 @@
       * [Samba (SMB)](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/samba-smb.md)
       * [FTP](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/ftp.md)
       * [SSH](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/ssh.md)
+      * [HTTP](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/http.md)
