@@ -43,3 +43,4 @@
       * [FTP](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/ftp.md)
       * [SSH](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/ssh.md)
       * [HTTP](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/http.md)
+      * [Mysql and Mssql](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/mysql-and-mssql.md)
