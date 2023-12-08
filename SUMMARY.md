@@ -44,3 +44,6 @@
       * [SSH](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/ssh.md)
       * [HTTP](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/http.md)
       * [Mysql and Mssql](certifications/ejpt-v2/assesment-methodology/enumeration-techniques/mysql-and-mssql.md)
+  * [Host & Network Pentest](certifications/ejpt-v2/host-and-network-pentest/README.md)
+    * [Linux](certifications/ejpt-v2/host-and-network-pentest/linux/README.md)
+      * [Checklist (priv esc)](certifications/ejpt-v2/host-and-network-pentest/linux/checklist-priv-esc.md)
