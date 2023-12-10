@@ -10,6 +10,11 @@
 * [2023 CTFs](ctf-writeups/2023-ctfs/README.md)
   * [Blackhat MEA CTF](ctf-writeups/2023-ctfs/blackhat-mea-ctf/README.md)
     * [Web - Authy](ctf-writeups/2023-ctfs/blackhat-mea-ctf/web-authy.md)
+  * [YCTF (week 2 - 9 Dec 23)](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/README.md)
+    * [Web Security](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/web-security/README.md)
+      * [IE10.1](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/web-security/ie10.1.md)
+      * [Confluence](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/web-security/confluence.md)
+      * [Cooki](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/web-security/cooki.md)
 
 ## 📦 Rooms
 
