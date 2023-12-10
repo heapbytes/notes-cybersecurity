@@ -4,7 +4,9 @@ description: https://tryhackme.com/room/yctfweek2Mv
 
 # VM - boot2root
 
+i had first blood for this machine ([🩸](https://emojipedia.org/drop-of-blood))
 
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ## Port scan
 
