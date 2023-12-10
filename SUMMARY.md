@@ -14,8 +14,9 @@
     * [Web Security](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/web-security/README.md)
       * [IE10.1](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/web-security/ie10.1.md)
       * [Confluence](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/web-security/confluence.md)
-      * [Cooki](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/web-security/cooki.md)
+      * [Cookie](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/web-security/cookie.md)
     * [Misc - Never found](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/misc-never-found.md)
+    * [VM - boot2root](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/vm-boot2root.md)
 
 ## 📦 Rooms
 
