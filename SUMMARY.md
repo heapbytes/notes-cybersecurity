@@ -17,6 +17,7 @@
       * [Cookie](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/web-security/cookie.md)
     * [Misc - Never found](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/misc-never-found.md)
     * [VM - boot2root](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/vm-boot2root.md)
+    * [Reversing - Easy](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/reversing-easy.md)
 
 ## 📦 Rooms
 
