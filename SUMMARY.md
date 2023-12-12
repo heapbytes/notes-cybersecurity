@@ -55,4 +55,5 @@
   * [Host & Network Pentest](certifications/ejpt-v2/host-and-network-pentest/README.md)
     * [Linux](certifications/ejpt-v2/host-and-network-pentest/linux/README.md)
       * [Checklist (priv esc)](certifications/ejpt-v2/host-and-network-pentest/linux/checklist-priv-esc.md)
-    * [Windows](certifications/ejpt-v2/host-and-network-pentest/windows.md)
+    * [Windows](certifications/ejpt-v2/host-and-network-pentest/windows/README.md)
+      * [Checklist (Priv Esc)](certifications/ejpt-v2/host-and-network-pentest/windows/checklist-priv-esc.md)
