@@ -57,3 +57,4 @@
       * [Checklist (priv esc)](certifications/ejpt-v2/host-and-network-pentest/linux/checklist-priv-esc.md)
     * [Windows](certifications/ejpt-v2/host-and-network-pentest/windows/README.md)
       * [Checklist (Priv Esc)](certifications/ejpt-v2/host-and-network-pentest/windows/checklist-priv-esc.md)
+  * [Web app pentest](certifications/ejpt-v2/web-app-pentest.md)
