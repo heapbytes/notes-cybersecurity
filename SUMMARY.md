@@ -61,3 +61,7 @@
   * [Host & Network pentest (MSF)](certifications/ejpt-v2/host-and-network-pentest-msf.md)
   * [Post exploitation](certifications/ejpt-v2/post-exploitation/README.md)
     * [Windows](certifications/ejpt-v2/post-exploitation/windows.md)
+
+***
+
+* [🖥 Active Directory](active-directory.md)
