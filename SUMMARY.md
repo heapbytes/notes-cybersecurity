@@ -29,6 +29,7 @@
     * [Backdoor](rooms/hackthebox/easy/backdoor.md)
     * [Soccer](rooms/hackthebox/easy/soccer.md)
     * [Secret](rooms/hackthebox/easy/secret.md)
+    * [Shoppy](rooms/hackthebox/easy/shoppy.md)
   * [Medium](rooms/hackthebox/medium/README.md)
     * [Sandworm](rooms/hackthebox/medium/sandworm.md)
     * [Shibboleth](rooms/hackthebox/medium/shibboleth.md)
