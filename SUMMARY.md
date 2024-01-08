@@ -23,6 +23,7 @@
 
 * [HackTheBox](rooms/hackthebox/README.md)
   * [Easy](rooms/hackthebox/easy/README.md)
+    * [Sau](rooms/hackthebox/easy/sau.md)
     * [Broker](rooms/hackthebox/easy/broker.md)
     * [Topology](rooms/hackthebox/easy/topology.md)
     * [Horizontall](rooms/hackthebox/easy/horizontall.md)
